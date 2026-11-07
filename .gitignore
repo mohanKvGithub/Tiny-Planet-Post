@@ -1,0 +1,11 @@
+# Godot generated cache and editor data
+.godot/
+
+# Local export configuration
+export.cfg
+export_presets.cfg
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
