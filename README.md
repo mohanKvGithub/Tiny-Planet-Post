@@ -1,10 +1,16 @@
 # Tiny Planet Post
 
-Tiny Planet Post is a cozy 2D delivery platformer. Run around tiny planets, pick up parcels, dodge obstacles, and deliver each package to the right house. Earn stars for successful deliveries and unlock new planets to explore.
+Tiny Planet Post is a cozy 2D delivery platformer prototype. Run around a tiny planet, pick up a parcel, and deliver it to the marked house.
 
 ## Getting started
 
 1. Open `project.godot` in Godot 4.7 or later.
 2. Press **F6** to run the current scene, or **F5** to run the project.
 
-The project currently contains a minimal starting scene. Gameplay and art will be added as development continues.
+## Prototype controls
+
+- **A / D** or **Left / Right**: move around the planet.
+- **Space** or **Up**: jump away from the surface.
+- **E**: pick up the parcel or deliver it at the house.
+
+The current prototype uses simple drawn placeholder art and focuses on planet movement, jumping, pickup, and delivery.
